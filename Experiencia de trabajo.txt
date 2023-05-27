@@ -1,0 +1,11 @@
+Al realizar este juego tuve bastantes dificultades, creo que es por esta misma razón que terminé haciendo el proyecto en Unity,
+ya que se facilita la creación de las casillas, y es más fácil manejar los sprites de las imágenes. Esto fue un problema para mí, ya que 
+en los primeros intentos para crear la aplicación, en lo que más fallaba era crear un buen método o clase para crear el tablero y las casillas,
+ya que hay muchas maneras de hacerlo en Windows Forms de Visual, pero ninguna me satisfizo al 100%. Además de esto, algunos métodos que eran
+necesarios para la lógica del juego, se complicaban más con la implementación de Windows Forms o la consola de Visual (a mi parecer).
+Por esta razón hice el juego en Unity, aprovechando que la interfaz es más satisfactoria visualmente, es decir, se pueden lograr mejores
+aspectos visuales en comparación con Windows Forms, y la implementación de los scripts a objetos, se hace más entendible y fácil, al menos
+para mí. Al final me gustó bastante realizar el juego, aprendí muchas cosas nuevas de como trabajar con matrices y toda la lógica que conlleva
+trabajar con ellas, además me gustó bastante aprender la lógica dentro del juego de buscaminas, es muy interesante ver todos los 
+algoritmos que hace el programa para una simple revelación de una casilla, y es muy increíble ver como todo está conectado, facilitando así
+el uso de herencia vito en clase, ya que era muy importante en este juego.
